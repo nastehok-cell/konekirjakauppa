@@ -1,0 +1,13 @@
+# Drupal / system files
+/vendor
+/node_modules
+
+# Drupal runtime files
+/web/sites/default/files
+
+# Environment files
+.env
+
+# OS / IDE
+.DS_Store
+.vscode
